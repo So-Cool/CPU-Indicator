@@ -50,3 +50,7 @@ To [Bruno Bellamy][bellaminette] for allowing me to freely use his hot babe.
 To David Odin for allowing me to freely re-use his idea!
 
 [bellaminette]: http://bellaminettes.com/
+
+## ToDo ##
+* Delay in graphics change
+* Try to use temperature not CPU usage
